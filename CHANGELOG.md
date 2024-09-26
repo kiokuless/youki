@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.4.2](https://github.com/containers/youki/compare/v0.4.1...v0.4.2) - 2024-09-26
+### 🧪 Test improvements and Misc Fixes
+- ci: update action versions to fix deprecation warnings by @YJDoc2 in https://github.com/containers/youki/pull/2918
+- deps: update wasmedge to 0.14.0 by @YJDoc2 in https://github.com/containers/youki/pull/2928
+### Other Changes
+- selinux: create Vagrantfile for SELinux by @Gekko0114 in https://github.com/containers/youki/pull/2900
+- Cargo.toml: remove unused dependnecies by @Mossaka in https://github.com/containers/youki/pull/2921
+- deps: update wasmtime by @YJDoc2 in https://github.com/containers/youki/pull/2929
+
 ## [v0.4.1](https://github.com/containers/youki/compare/v0.4.0...v0.4.1) - 2024-09-02
 ### 🧪 Test improvements and Misc Fixes
 - prepare for version 0.4.1 by @YJDoc2 in https://github.com/containers/youki/pull/2897
